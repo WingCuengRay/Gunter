@@ -1,7 +1,7 @@
 # Gunter
 
-1.1 Front End for CV template
-1.2 Backend service handler
-2. validation/translation    
-3. pdf generation
-4. job description matching
+1 Front End for CV template
+2 Backend service handler
+3. validation/translation    
+4. pdf generation
+5. job description matching
